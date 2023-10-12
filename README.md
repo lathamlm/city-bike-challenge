@@ -1,11 +1,13 @@
 # city-bike-challenge
 Module 18 Challenge
 
+This challenge may be viewed by opening the 'City Bike Data' file attached in this repository or by clicking on the link shown below.  This analysis looks at bike station data in New York City and Jersey City from August 2022 to July 2023.
 ___________________________________________________________________
 
 ## INCLUDED IN THIS REPOSITORY:
 
 - Resources folder containing an Images folder with screenshots from Tableau project
+- City Bike Data - Tableau File containing Tableau workbook
 - cleaning.ipynb - Jupyter Notebook file containing cleaning steps
 
 ___________________________________________________________________
