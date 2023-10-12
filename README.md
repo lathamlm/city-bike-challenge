@@ -2,6 +2,7 @@
 Module 18 Challenge
 
 This challenge may be viewed by opening the 'City Bike Data' file attached in this repository or by clicking on the link shown below.  This analysis looks at bike station data in New York City and Jersey City from August 2022 to July 2023.
+
 ___________________________________________________________________
 
 ## INCLUDED IN THIS REPOSITORY:
